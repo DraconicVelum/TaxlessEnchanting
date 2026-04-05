@@ -8,7 +8,7 @@
 
 <p align="center">TaxlessEnchanting removes vanilla level scaling<br>
 and replaces it with a precise XP-based system for enchanting and anvil usage.<br><br>
-It ensures accurate XP consumption, no visual flicker,<br>
+It ensures accurate XP consumption<br>
 and seamless integration with AuraSkills.<br><br>
 Experience enchanting the way it should feel.</p>
 
