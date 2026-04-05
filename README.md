@@ -20,7 +20,7 @@ Accurate and consistent progression.</p><br>
 
 ### <p align="center">Enchanting Table Support</p>
 <p align="center">Fully replaces vanilla XP cost handling.<br>
-No flicker, fully synchronized UI.</p><br>
+Fully synchronized UI.</p><br>
 
 ### <p align="center">Anvil Support</p>
 <p align="center">Applies XP-based cost to anvil operations.<br>
